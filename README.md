@@ -1,1 +1,3 @@
-# Questions-about-data-structures-in-408-The-national-entrance-examination-for-postgraduate
+# 2009-2019年 考研408 数据结构真题答案
+1. C语言
+2. 全部运行通过
